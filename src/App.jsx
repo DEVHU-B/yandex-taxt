@@ -185,7 +185,7 @@ export default function App() {
         <div className={styles.container + " " + styles.footerInner}>
           <div className={styles.logo}><span>Я</span>ндекс Такси <i /> <b>ПАКСОПАРК</b></div>
           <div>⌖ &nbsp; Работаем по всей России</div>
-          <a href="tel:+79114694549">☎ &nbsp;+7 (911) 469-45-49</a>
+          <a href="tel:+79114694549">☎ &nbsp;+7 (951) 465-45-45</a>
         </div>
       </footer>
     </div>
